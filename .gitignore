@@ -1,0 +1,6 @@
+# No hacer seguimento a estos archivos
+*.exe
+# no rastrear la carpeta
+/temp
+# Ignorar el archivo dataset.csv
+dataset.csv
